@@ -1,0 +1,7 @@
+# ignore files
+__pycache__
+coursera_house/__pycache__
+.idea
+db.sqlite3
+coursera_house/core/migrations/*
+!coursera_house/core/migrations/__init__.py
